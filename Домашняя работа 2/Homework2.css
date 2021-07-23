@@ -1,0 +1,178 @@
+.rectangle1 {
+    width: 700px;
+    height: 220px;
+    background-color: rosybrown;
+    margin: 60vh
+}
+
+.ol1{
+   position: absolute;
+}
+
+.li1{
+    background-color: red;
+    width: 50px;
+    height: 25px;
+    margin: 10px;
+    
+
+}
+
+.li2{
+    background-color: red;
+    width: 50px;
+    height: 25px;
+    margin: 10px;
+}
+
+.li3 {
+    background-color: red;
+    width: 70px;
+    height: 25px;
+    margin: 10px;
+}
+
+.li4 {
+    background-color: red;
+    width: 50px;
+    height: 25px;
+    margin: 10px;
+}
+
+.li5 {
+    background-color: red;
+    width: 50px;
+    height: 25px;
+    margin: 10px;
+}
+
+.rec1 {
+    width: 600px;
+    height: 25px;
+    background-color: violet;
+}
+
+.rec2 {
+    width: 600px;
+    height: 25px;
+    background-color: violet;
+}
+
+
+.rec3 {
+    width: 600px;
+    height: 25px;
+    background-color: violet;
+}
+
+
+.rec4 {
+    width: 600px;
+    height: 25px;
+    background-color: violet;
+}
+
+
+.rec5 {
+    width: 600px;
+    height: 25px;
+    background-color: violet;
+}
+
+
+
+ul {
+    background-color: rgb(192, 228, 229);
+    width: 300px;
+}
+
+
+li{
+    margin: 5px;
+    width: 200px;
+    list-style-type: none;
+}
+
+ul :nth-child(1) {
+   background-color: rgb(149, 149, 177);
+}
+
+ul :nth-child(3) {
+    background-color: rgb(149, 149, 177);
+ }
+
+
+ ul :nth-child(7) {
+    background-color: rgb(149, 149, 177);
+ }
+
+
+ ul :nth-child(9) {
+    background-color: rgb(149, 149, 177);
+ }
+
+
+ul :nth-child(4) {
+    background-color: rgb(125, 125, 204);
+}
+
+ul :nth-child(6) {
+    background-color: rgb(125, 125, 204);
+}
+
+ul :nth-child(8) {
+    background-color: rgb(125, 125, 204);
+}
+
+ul :nth-child(10) {
+    background-color: rgb(125, 125, 204);
+}
+
+ul :nth-child(12) {
+    background-color: rgb(125, 125, 204);
+}
+
+
+
+ul :nth-child(2) {
+    background-color: burlywood; 
+    text-decoration: line-through;
+}
+
+
+ul :nth-child(5) {
+    background-color: burlywood;
+    text-decoration: line-through;
+
+}
+
+
+ul :nth-child(11) {
+    background-color: burlywood;
+    text-decoration: line-through;
+}
+
+
+q {
+    color: burlywood;
+    margin-left: 55px;
+}
+
+
+span {
+  color: blue;  
+}
+
+dt {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.synonyms1, .synonyms2, .synonyms3 {
+    margin-left: 55px;
+}
+
+dt {
+    font-style: italic;
+}
+
